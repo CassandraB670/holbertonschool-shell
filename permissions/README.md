@@ -16,3 +16,7 @@ Task 4 - file 4-empty
 Task 5 - file 5-execute
 	Write a script that adds execute permission to the owner of the file hello.
 
+Task 6 - file 6-multiple_permissions
+	Crite a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+
+
