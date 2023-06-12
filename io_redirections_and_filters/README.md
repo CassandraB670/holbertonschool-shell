@@ -13,4 +13,7 @@ Task 3 - file 3-twofiles
 Task 4 - file 4-lastlines
 	Display the last 10 lines of /etc/passwd
 
+Task 5 - file 5-firstlines
+	Display the first 10 lines of /etc/passwd
+
 
