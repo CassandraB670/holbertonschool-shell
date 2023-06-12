@@ -32,6 +32,12 @@ Task 8 - file 8-James_Bond
 Task 9 - file 9-John_Doe
 	Write a script that sets the mode of the file hello.
 
+Task 10 - File 10-mirror_permissions
+	Write a script that sets the mode of the file hello the same as olleh’s mode.
+
+		The file hello will be in the working directory
+		The file olleh will be in the working directory
+
 
 
 
