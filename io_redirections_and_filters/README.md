@@ -4,4 +4,7 @@ Task 0 - file 0-hello_world
 Task 1 - file 1-confused_smiley
 	Write a script that displays a confused smiley "(Ôo)'.
 
+Taks 2 - file 2-hellofile
+	Display the content of the /etc/passwd file.
+
 
