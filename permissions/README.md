@@ -10,3 +10,6 @@ Task 2 - file 2-groups
 Task 3 - file 3-new_owner
 	Write a script that changes the owner of the file hello to the user betty.
 
+Task 4 - file 4-empty
+	Write a script that creates an empty file called hello.
+
