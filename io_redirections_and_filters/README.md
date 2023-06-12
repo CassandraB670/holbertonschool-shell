@@ -7,4 +7,7 @@ Task 1 - file 1-confused_smiley
 Taks 2 - file 2-hellofile
 	Display the content of the /etc/passwd file.
 
+Task 3 - file 3-twofiles
+	Display the content of /etc/passwd and /etc/hosts
+
 
