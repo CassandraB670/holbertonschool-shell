@@ -58,6 +58,11 @@ Task 15 - File 15-symbolic_link_permissions
 		The file _hello is in the working directory
 		The file _hello is a symbolic link
 
+Task 16 è File 16-if_only
+	Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
+
+		The file hello will be in the working directory
+
 
 
 
