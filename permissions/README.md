@@ -19,6 +19,15 @@ Task 5 - file 5-execute
 Task 6 - file 6-multiple_permissions
 	Crite a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
-Task 7, file 7-everybody
+Task 7 - file 7-everybody
 	Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+
+Task 8 - file 8-James_Bond
+	Write a script that sets the permission to the file hello as follows:
+
+		Owner: no permission at all
+		Group: no permission at all
+		Other users: all the permissions
+
+
 
