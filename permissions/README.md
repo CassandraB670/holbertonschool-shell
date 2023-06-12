@@ -49,6 +49,9 @@ Task 13 - File 13-change_group
 
 		The file hello will be in the working directory
 
+Task 14 - File 14-change_owner_and_group
+	Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
 
 
 
