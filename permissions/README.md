@@ -44,6 +44,11 @@ Task 11 - File 11-directories_permissions
 Task 12 - File 12-directory_permissions
 	Create a script that creates a directory called my_dir with permissions 751 in the working directory.
 
+Task 13 - File 13-change_group
+	Write a script that changes the group owner to school for the file hello
+
+		The file hello will be in the working directory
+
 
 
 
