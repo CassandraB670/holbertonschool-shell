@@ -29,5 +29,9 @@ Task 8 - file 8-James_Bond
 		Group: no permission at all
 		Other users: all the permissions
 
+Task 9 - file 9-John_Doe
+	Write a script that sets the mode of the file hello.
+
+
 
 
