@@ -13,3 +13,6 @@ Task 3 - file 3-new_owner
 Task 4 - file 4-empty
 	Write a script that creates an empty file called hello.
 
+Task 5 - file 5-execute
+	Write a script that adds execute permission to the owner of the file hello.
+
