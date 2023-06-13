@@ -70,4 +70,9 @@ Task 16 - file 16-whatsnext
 Task 17 - file 17-hidethisword
 	Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+Task 18 - file 18-letteronly
+	Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+		include capital letters as well
+
 
