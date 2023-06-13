@@ -23,4 +23,7 @@ Task 6 - file 6-third_line
 
 		You’re not allowed to use sed
 
+Task 6 è file 7-file
+	Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
 
