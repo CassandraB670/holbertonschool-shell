@@ -19,4 +19,7 @@ Task 4 - 4-global_variables
 Task 5 - 5-local_variables
 	Create a script that lists all local variables and environment variables, and functions.
 
+Task 6 - 6-create_local_variable
+	Create a script that creates a new local variable.
+
 
