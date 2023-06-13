@@ -75,4 +75,7 @@ Task 18 - file 18-letteronly
 
 		include capital letters as well
 
+Task 19 - file 19-AZ
+	Replace all characters A and c from input to Z and e respectively.
+
 
