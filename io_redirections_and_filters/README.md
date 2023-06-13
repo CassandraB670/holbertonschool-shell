@@ -81,4 +81,7 @@ Task 19 - file 19-AZ
 Task 20 - file 20-hiago
 	 Create a script that removes all letters c and C from input.
 
+Task 21 - file 21-reverse
+	Write a script that reverse its input.
+
 
