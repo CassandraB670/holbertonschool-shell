@@ -16,4 +16,7 @@ Task 3 - 3-paths
 Task 4 - 4-global_variables
 	Create a script that lists environment variables.
 
+Task 5 - 5-local_variables
+	Create a script that lists all local variables and environment variables, and functions.
+
 
