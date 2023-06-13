@@ -61,4 +61,7 @@ Task 13 - file 13-unique
 Task 14 - file 14-findthatword
 	Display lines containing the pattern “root” from the file /etc/passwd
 
+Task 15 - file 15-countthatword
+	Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+
 
