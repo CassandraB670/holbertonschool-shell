@@ -51,4 +51,11 @@ Task 12 - file 12-newest_files
 		One file per line
 		Sorted from the newest to the oldest
 
+Task 13 - file 13-unique
+	Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+		Input format: One line, one word
+		Output format: One line, one word
+		Words should be sorted
+
 
