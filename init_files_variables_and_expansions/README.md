@@ -39,4 +39,10 @@ Task 10 - 10-love_exponent_breath
 	BREATH and LOVE are environment variables
 	The script should display the result, followed by a new line
 
+Task 11 - 11-binary_to_decimal
+	Write a script that converts a number from base 2 to base 10.
+
+		The number in base 2 is stored in the environment variable BINARY
+		The script should display the number in base 10, followed by a new line
+
 
