@@ -22,4 +22,7 @@ Task 5 - 5-local_variables
 Task 6 - 6-create_local_variable
 	Create a script that creates a new local variable.
 
+Task 7 - 7-create_global_variable
+	Create a script that creates a new global variable.
+
 
