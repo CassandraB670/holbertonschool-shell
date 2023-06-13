@@ -58,4 +58,7 @@ Task 13 - file 13-unique
 		Output format: One line, one word
 		Words should be sorted
 
+Task 14 - file 14-findthatword
+	Display lines containing the pattern “root” from the file /etc/passwd
+
 
