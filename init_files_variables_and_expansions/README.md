@@ -13,4 +13,7 @@ Task 2 - 2-path
 Task 3 - 3-paths
 	Create a script that counts the number of directories in the PATH.
 
+Task 4 - 4-global_variables
+	Create a script that lists environment variables.
+
 
