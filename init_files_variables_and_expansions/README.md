@@ -4,4 +4,7 @@ Task 0 - 0-alias
 	Name: ls
 	Value: rm *
 
+Task 1 -1-hello_you
+	Create a script that prints hello user, where user is the current Linux user.
+
 
